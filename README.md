@@ -1,2 +1,2 @@
 # snake-egg
-my first python programms are right here
+my first python projects are right here
